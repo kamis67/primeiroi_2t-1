@@ -49,3 +49,36 @@ li a:hover {
   background: rgb(139, 105, 201);
   color: azure;
 }
+#tigre {
+  width: 10%;
+}
+.caixaTigre {
+  position: absolute;
+  top: 45px;
+  width: 90%;
+  height: 120px;
+  background-color: black;
+  left: 0%;
+  margin: 20px;
+  border-color: cadetblue;
+  border-width: 20px;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.caixaTigre2 {
+  position: absolute;
+  top: 45px;
+  width: 90%;
+  height: 120px;
+  background-color: rgb(2, 47, 116);
+  left: 0%;
+  margin: 20px;
+  border-color: rgb(3, 183, 189);
+  border-width: 20px;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
